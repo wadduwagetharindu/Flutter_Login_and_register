@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968987074787",
+    "project_id": "register-login-dummy1-8e132",
+    "storage_bucket": "register-login-dummy1-8e132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968987074787:android:cf9ff7a203715618f0a5d6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1_register_login_dummy1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCftK9-g5hCS-xpnW9P_sF1sHx1vlqjos0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
